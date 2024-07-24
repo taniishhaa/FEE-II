@@ -1,0 +1,77 @@
+body{
+    background-image: url("https://cuiet.codebrigade.in/images/Chitkara_University_pic.jpg");
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+.container1{
+    position: absolute;
+    padding: 2px;
+    background-color: white;
+    height: 620px;
+    width: 300px;
+    border: 2px solid rgb(158, 158, 158);
+    right: 220px;
+    top: 200px;
+}
+
+.container1 img{
+    position: absolute;
+    padding: 2px;
+    right: 50px;
+    top: 20px;
+}
+
+.container2{
+    position: absolute;
+    padding: 2px;
+    right: 203px;
+    top: 360px;
+    height: 450px;
+    width: 300px;
+}
+
+#username,#password{
+    padding: 2px;
+    width: 84%;
+    border: 1px solid gray;
+    height: 20px;
+}
+
+select{
+    padding: 2px;
+    width: 85.5%;
+    border: 1px solid gray;
+    height: 26px;
+}
+
+button{
+  background-color: #bf4239;
+  border: none;
+  color: white;
+  padding: 15px 100px;
+  text-align: center;
+  text-decoration: none;
+  display:inline-flex;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+}
+
+#apple{
+    position: absolute;
+    top: 350px;
+    right: 200px;
+}
+
+#playstore{
+    position: absolute;
+    top: 350px;
+    right: 110px;
+}
+
+#cblogo{
+    position: absolute;
+    top: 410px;
+    right: 50px;
+}
